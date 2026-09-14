@@ -18,7 +18,8 @@ USUARIOS_AUTORIZADOS = {
     "admin": "haypunto2026",
     "gerencia": "cobranzas2026",
     "coordinador": "pos2026",
-    "jtovar": "jtovar2026*"
+    "jtovar": "jtovar2026*",
+    "ymeza": "ymeza2026*"
 }
 
 # 3. Control de Estado de Sesión (Login)
